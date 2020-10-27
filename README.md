@@ -1,8 +1,8 @@
-# Blog Holy Grail
+# Holy Grail Blog
 
-Diseño de Blog tipo Holy Grail, un diseño simple con el cual podrían guisarse para futuros proyectos, la intención es dar una idea de como podrían realizarlo y ahorrar tiempo.
+Blog design type Holy Grail, a simple design with which they could be cooked for future projects, the intention is to give an idea of how they could do it and save time.
 
-Vista Previa: https://juanlugodegouveia.github.io/Blog-Holy-Grail/
+Preview: https://juanlugodegouveia.github.io/Blog-Holy-Grail/
 
 ## Copyright
 
